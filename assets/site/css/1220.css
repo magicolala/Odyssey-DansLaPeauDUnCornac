@@ -1,0 +1,34 @@
+@media screen and (min-width: 1240px){
+	#wrapper{
+		width:100%;
+		min-width:1240px;
+		max-width:1480px;
+	}
+	#header > .inside{
+		width:1220px;
+	}
+	#container{
+		width:1220px;
+	}
+	#container_add_soc{
+		width:205px;
+		margin-right:74px;
+	}
+	#billetterie{
+		width:254px;
+		margin-right:80px;
+	}
+	#cinema{
+		width:207px;
+		margin-right:80px;
+	}
+	#container .downloadPrefooter{
+		width:320px;
+	}
+	#container .downloadPrefooter .ce_downloads li{
+		width:95px;
+	}
+	#footer{
+		width:1220px;
+	}
+}

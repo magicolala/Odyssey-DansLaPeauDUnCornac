@@ -1,0 +1,94 @@
+@media 
+(-webkit-min-device-pixel-ratio: 1.25), 
+(min-resolution: 120dpi){
+	#header .logo{
+		background-image:url(../images/logo_320%402x.png);
+		background-size:171px 40px;
+	}
+	#header .menu .btn a{
+		background-image:url(../images/btn_pull_push%402x.png);
+		background-size:40px 80px;
+	}
+	#menu #abo p a{
+		background-image:url(../images/bullet_orange_arrow%402x.png);
+		background-size:21px 21px;
+	}
+	#abo p a{
+		background-image:url(../images/bullet_white_arrow%402x.png);
+		background-size:21px 21px;
+	}
+	#main .back a{
+		background-image:url(../images/detail/bullet_white_arrow_back%402x.png);
+		background-size:18px 18px;
+	}
+	#main .mod_ticketsList .layout_list .more a{
+		background-image:url(../images/bullet_white_more%402x.png);
+		background-size:21px 21px;
+	}
+	#main .mod_ticketsList .layout_list .buy a, #main .mod_ticketsReader .informations .buy a{
+		background-image:url(../images/bullet_white_arrow%402x.png);
+		background-size:21px 21px;
+	}
+	#newsHome .animation-nav li{
+		background-image:url(../images/pagination_slideshow%402x.png);
+		background-size:15px 30px;
+	}	
+	
+	#social .inside a:nth-child(1){
+		background-image:url(../images/pic_fb%402x.png);
+		background-size:30px 30px;
+	}
+	#social .inside a:nth-child(2){
+		background-image:url(../images/pic_tw%402x.png);
+		background-size:30px 30px;
+	}
+	#main .mod_article li{
+		background-image:url(../images/puce%402x.png);
+		background-size:8px 8px;
+	}
+	#main .mod_article .ce_accordion .toggler {
+		background-image:url(../images/detail/accordion_toggler_off%402x.png);
+		background-size:30px 30px;
+	}
+	#main .mod_article .ce_accordion .toggler.active {
+		background-image:url(../images/detail/accordion_toggler_on%402x.png);
+		background-size:30px 30px;
+	}
+	#main .mod_ticketsReader .citation {
+		background-image:url(../images/detail/pic_citation%402x.png);
+		background-size:30px 37px;
+	}
+	#main .mod_ticketsReader .addressSite a {
+		background-image:url(../images/detail/btn_link%402x.png);
+		background-size:21px 21px;
+	}
+	#previous{
+		background-image:url(../images/detail/previous_slideshow_320%402x.png);
+		background-size:40px 40px;
+	}
+	#next{
+		background-image:url(../images/detail/next_slideshow_320%402x.png);
+		background-size:40px 40px;
+	}
+	#main .mod_ticketsReader .media p a{
+		background-image:url(../images/detail/btn_play_orange%402x.png);
+		background-size:21px 21px;
+	}
+	
+	#main .mod_ticketsList .layout_list .duration, #main .mod_ticketsReader .informations .pictoInfo .duration{
+		background-image: url(../images/hourglass%402x.png);
+		background-size:20px 20px;
+	}
+	#main .mod_ticketsList .layout_list .locality, #main .mod_ticketsReader .informations .pictoInfo .locality{
+		background-image: url(../images/house%402x.png);
+		background-size:20px 20px;
+	}
+	#main .mod_ticketsList .layout_list .pegy, #main .mod_ticketsReader .informations .pictoInfo .pegy{
+		background-image: url(../images/pegy%402x.png);
+		background-size:20px 20px;
+	}
+	#main .mod_ticketsList .layout_list .rate, #main .mod_ticketsReader .informations .pictoInfo .rate{
+		background-image: url(../images/euros%402x.png);
+		background-size:20px 20px;
+	}
+}

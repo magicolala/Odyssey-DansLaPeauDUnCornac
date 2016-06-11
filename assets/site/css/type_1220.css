@@ -1,0 +1,96 @@
+@media screen and (min-width: 1240px){
+	/**
+	 * LEFT
+	 */
+	 
+	
+	/**
+	 * MAIN
+	 */
+	#main{
+		width:966px;
+	}
+	#main > .inside{
+		padding-left:50px;
+	}
+	#main .mod_article{
+		font-size:15px;
+	}
+	#main .mod_ticketsList .layout_list{
+		width:592px;
+	}
+	#main .mod_ticketsList .layout_list .image_container{
+		width:270px;
+		height:270px;
+	}
+	#main .mod_ticketsList .layout_list .more{
+		clear:none;
+	}
+	#main .mod_ticketsReader .layout_full .left{
+		width:880px;
+	}
+	#main .mod_ticketsReader .teaser{
+		font-size:18px;
+	}
+	#main #gallery_container{
+		width:880px;
+		height:580px;
+		margin-bottom:2px;
+	}
+	#main #gallery_pagination{
+		width:880px;
+		margin-bottom:33px;
+	}
+	#main .mod_ticketsList .layout_list .right{
+		margin-left:292px;
+	}
+	#main .mod_ticketsReader .layout_full .right{
+		width:320px;
+	}
+	#main .mod_ticketsReader .media p{
+		width:155px;
+	}
+	#main .mod_ticketsReader .informations{
+		width:320px;
+	}
+	#main .mod_ticketsReader .informations .pictoInfo p{
+		background-position:center 15px !important;
+		float:left;
+		width:145px;
+		height:32px;
+		padding:50px 0 0;
+		margin-bottom:9px;
+		font-size:16px;
+		text-align:center;
+	}
+	#main .mod_ticketsReader .informations .pictoInfo p.duration,
+	#main .mod_ticketsReader .informations .pictoInfo p.pegy{
+		border-right:1px solid #797979;
+	}
+	#main .mod_ticketsReader .informations .pictoInfo p.duration{
+		background-image:url(../images/hourglass_1220.png);
+	}
+	#main .mod_ticketsReader .informations .pictoInfo p.locality{
+		background-image:url(../images/house_1220.png);
+	}
+	#main .mod_ticketsReader .informations .pictoInfo p.pegy{
+		background-image:url(../images/pegy_1220.png);
+	}
+	#main .mod_ticketsReader .informations .pictoInfo p.rate{
+		background-image:url(../images/euros_1220.png);
+	}
+	#main .mod_ticketsList .layout_list br{
+		position:static;
+	}
+	#main .mod_ticketsFilter form{
+		border-left:450px solid #F2F2F2;
+	}
+	/*.archive #main .mod_ticketsFilter form{
+		border-left:290px solid #F2F2F2;
+	}*/
+	
+	#main .mod_article h1{
+		font-size:35px;
+	}
+	
+}
